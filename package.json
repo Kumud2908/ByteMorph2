@@ -1,0 +1,43 @@
+{
+  "name": "bytemorph",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Kumud2908/ByteMorph#readme",
+  "bugs": {
+    "url": "https://github.com/Kumud2908/ByteMorph/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kumud2908/ByteMorph.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon api/index.js",
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
+    "@tailwindcss/vite": "^4.1.0",
+    "axios": "^1.8.4",
+    "bcryptjs": "^3.0.2",
+    "cloudinary": "^2.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "firebase": "^11.6.0",
+    "fs-extra": "^11.3.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.1",
+    "multer": "^1.4.4",
+    "multer-gridfs-storage": "^5.0.2",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

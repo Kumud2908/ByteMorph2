@@ -1,0 +1,1 @@
+{"name":"Local: compress","url":"/home/kumud/Downloads/ByteMorph/api/controllers/compress.controller.js","tests":[{"id":1743908996050,"input":"abc.txt output.txt","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kumud/Downloads/ByteMorph/api/controllers/compress.controller.js","group":"local","local":true}
