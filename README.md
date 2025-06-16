@@ -2,9 +2,14 @@
 
 ByteMorph is a full-stack application powered by Node.js, Express, MongoDB, and Firebase, designed to handle secure file uploads with advanced features like TailwindCSS styling, authentication, and Cloudinary image storage.
 
+About the app -
+the app uses huffmann and rle  to compress the file  
+in the project the .exe files  codes for huffmann and rle are run as child processes
+however i have included cpp files for the same too for understanding pusposes 
+
 ## 🌐 Live Demo
 
-Check out the project on [GitHub](https://github.com/Kumud2908/ByteMorph).
+Check out the project on (https://channeli.in/api/django_filemanager/media_files/124871/).
 
 ---
 
