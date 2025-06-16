@@ -68,7 +68,10 @@ CLOUDINARY_NAME=your_cloudinary_name
 CLOUDINARY_API_KEY=your_key
 CLOUDINARY_API_SECRET=your_secret
 FIREBASE_CONFIG=your_firebase_config
+
+
 ```
+for testing pusposes i have uploaded .env file u can use the same 
 
 ### 4. Start the Server
 
@@ -76,8 +79,7 @@ FIREBASE_CONFIG=your_firebase_config
 # Development
 npm run dev
 
-# Production
-npm start
+
 ```
 
 ---
